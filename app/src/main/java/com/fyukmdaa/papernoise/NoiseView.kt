@@ -1,4 +1,4 @@
-package com.example.papernoise
+package com.fyukmdaa.papernoise
 
 import android.content.Context
 import android.graphics.*
